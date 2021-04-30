@@ -3,7 +3,7 @@
 Simple servers for trying out some technologies.
 
 Example docker-compose.yml is following.
-And execute command that is `docker-compose up -d`.
+And execute `docker-compose up -d` only.
 
 After that, check `http://localhost:8081/`, `http://localhost:8082/`, `http://localhost:8083/`.
 
