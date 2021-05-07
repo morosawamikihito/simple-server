@@ -30,12 +30,15 @@ services:
 |server|path|
 |---|---|
 |server1|/|
+|server1|/server1/ip|
 |server1|/server1/hello|
 |server1|/server1/hey|
 |server2|/|
+|server2|/server2/ip|
 |server2|/server2/hello|
 |server2|/server2/hey|
 |server3|/|
+|server3|/server3/ip|
 |server3|/server3/hello|
 |server3|/server3/hey|
 
